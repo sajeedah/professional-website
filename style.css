@@ -197,6 +197,7 @@ a:hover{ color:var(--brand-ink); }
   width: min(320px, 100%);
   aspect-ratio: 1 / 1;
   object-fit: cover;
+  object-position: center top;
   border-radius: 16px;
   border: 2px solid #e5eef7;
   box-shadow: 0 10px 30px rgba(0,120,215,.1);
